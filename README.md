@@ -26,7 +26,7 @@ A robust Python-based file transfer system that supports multiple concurrent cli
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/enhanced-file-transfer.git
+   git clone https://github.com/maximuscle/BigEndian-Challenge.git
    cd enhanced-file-transfer
    ```
 
